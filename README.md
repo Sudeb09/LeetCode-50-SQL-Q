@@ -26,8 +26,8 @@ This initiative is not just for my personal growth; it's also designed to benefi
 
 | Problem Name                                | Solution Link                                        |
 | :------------------------------------------ | :--------------------------------------------------- |
-| Recyclable and Low Fat Products       | [Recyclable and Low Fat Products.md](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Recyclable%20and%20Low%20Fat%20Products.md) |
-| Find Customer Referee                  | [Find Customer Referee.md](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Find%20Customer%20Referee.md) |
+| 1.   Recyclable and Low Fat Products       | [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Recyclable%20and%20Low%20Fat%20Products.md) |
+| 2.   Find Customer Referee                  | [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Find%20Customer%20Referee.md) |
 
 
 ## Progress Tracker

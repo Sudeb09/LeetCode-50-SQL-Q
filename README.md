@@ -28,6 +28,8 @@ This initiative is not just for my personal growth; it's also designed to benefi
 | :------------------------------------------ | :--------------------------------------------------- |
 | 1.   Recyclable and Low Fat Products       | [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Recyclable%20and%20Low%20Fat%20Products.md) |
 | 2.   Find Customer Referee                  | [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Find%20Customer%20Referee.md) |
+| 3.   Big Countries                   | [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Big%20Cuntries.md) |
+
 
 
 ## Progress Tracker

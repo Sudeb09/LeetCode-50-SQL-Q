@@ -1,4 +1,4 @@
-![SQL Progress](https://img.shields.io/badge/SQL%20Problems%20Solved-3%2F50-blue)
+![SQL Progress](https://img.shields.io/badge/SQL%20Problems%20Solved-4%2F50-blue)
 
 # LeetCode SQL 50 Questions: A Journey to SQL Mastery
 

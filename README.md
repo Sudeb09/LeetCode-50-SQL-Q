@@ -1,4 +1,4 @@
-![SQL Progress](https://img.shields.io/badge/SQL%20Problems%20Solved-4%2F50-blue)
+![SQL Progress](https://img.shields.io/badge/SQL%20Problems%20Solved-5%2F50-blue)
 
 # LeetCode SQL 50 Questions: A Journey to SQL Mastery
 
@@ -30,6 +30,7 @@ This initiative is not just for my personal growth; it's also designed to benefi
 | 2.   Find Customer Referee                  | [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Find%20Customer%20Referee.md) |
 | 3.   Big Countries                   | [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Big%20Countries.md) |
 | 4.   Article Views I                   | [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Article%20Views%20I.md) |
+| 5.   Invalid Tweets                  | [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Invalid%20Tweets.md)|
 
 
 

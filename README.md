@@ -1,4 +1,4 @@
-![SQL Progress](https://img.shields.io/badge/SQL%20Problems%20Solved-5%2F50-blue)
+![SQL Progress](https://img.shields.io/badge/SQL%20Problems%20Solved-6%2F50-blue)
 
 # LeetCode SQL 50 Questions: A Journey to SQL Mastery
 
@@ -31,6 +31,7 @@ This initiative is not just for my personal growth; it's also designed to benefi
 | 3.   Big Countries                   | [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Big%20Countries.md) |
 | 4.   Article Views I                   | [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Article%20Views%20I.md) |
 | 5.   Invalid Tweets                  | [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Invalid%20Tweets.md)|
+| 6.   Replace Employee ID With The Unique Identifier |[Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Replace%20Employee%20Id%20With%20The%20Unique%20Identifier.md)|
 
 
 

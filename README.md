@@ -1,4 +1,4 @@
-![SQL Progress](https://img.shields.io/badge/SQL%20Problems%20Solved-11%2F50-blue)
+![SQL Progress](https://img.shields.io/badge/SQL%20Problems%20Solved-12%2F50-blue)
 
 # LeetCode SQL 50 Questions: A Journey to SQL Mastery
 
@@ -37,6 +37,7 @@ This initiative is not just for my personal growth; it's also designed to benefi
 | 9.    Rising Temperature              |     [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Rising%20Temperature.md)|
 | 10.   Average Time of Process Per Machine   |[Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Average%20Time%20of%20Process%20Per%20Machine.md)|
 | 11.   Employee Bonus                  |[Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Employee%20Bonus.md)|
+| 12.   Students and Examinations        |[Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Students%20and%20Examinations.md)|
 
 
 

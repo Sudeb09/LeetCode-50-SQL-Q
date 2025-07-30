@@ -1,4 +1,4 @@
-![SQL Progress](https://img.shields.io/badge/SQL%20Problems%20Solved-13%2F50-blue)
+![SQL Progress](https://img.shields.io/badge/SQL%20Problems%20Solved-14%2F50-blue)
 
 # LeetCode SQL 50 Questions: A Journey to SQL Mastery
 
@@ -39,6 +39,7 @@ This initiative is not just for my personal growth; it's also designed to benefi
 | 11.   Employee Bonus                  |[Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Employee%20Bonus.md)|
 | 12.   Students and Examinations        |[Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Students%20and%20Examinations.md)|
 | 13.  Managers with at Least 5 Direct Reports|  [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Managers%20with%20at%20Least%205%20Direct%20Reports.md)|
+| 14.  Confirmation Rate                | [Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Confirmation%20Rate.md)|
 
 
 

@@ -1,4 +1,4 @@
-![SQL Progress](https://img.shields.io/badge/SQL%20Problems%20Solved-17%2F50-blue)
+![SQL Progress](https://img.shields.io/badge/SQL%20Problems%20Solved-18%2F50-blue)
 
 # LeetCode SQL 50 Questions: A Journey to SQL Mastery
 
@@ -43,6 +43,7 @@ This initiative is not just for my personal growth; it's also designed to benefi
 | 15.  Not Boring Movies                |[Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Not%20Boring%20Movies.md)|
 | 16.  Average Selling Price            |[Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Average%20Selling%20Price.md)|
 | 17.  Project Employees I.             |[Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Project%20Employees%20I.md)|
+| 18.  Percentage of Users Attended in a Contest. |[Solution](https://github.com/Sudeb09/LeetCode-50-SQL-Q/blob/main/Percentage%20of%20Users%20Attended%20a%20Contest.md)|
 
 
 
